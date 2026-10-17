@@ -3,9 +3,11 @@
 {
     "collegeName": "Sri Krishna Arts and Science College",
     "participantCode": "d3cdf1dc4107fd743559",
-    "labSlots": [
-        "Computer Lab - Monday, 9:00 AM to 11:00 AM",
-        "AI and ML Lab - Wednesday, 10:00 AM to 12:00 PM",
-        "Programming Lab - Friday, 2:00 PM to 4:00 PM"
+      "labs": [
+    { "name": "Computer Lab 1", "opens": "09:00", "closes": "11:00" },
+    { "name": "Physics Lab", "opens": "11:30", "closes": "13:00" },
+    { "name": "Chemistry Lab", "opens": "14:00", "closes": "16:00" },
+    { "name": "Update {token}", "opens": "16:30", "closes": "17:30" }
+  ]
     ]
 }
